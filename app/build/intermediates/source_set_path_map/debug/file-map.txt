@@ -1,0 +1,7 @@
+com.fixrsg.app-pngs-0 /data/data/com.termux/files/home/fixRSG/app/build/generated/res/pngs/debug
+com.fixrsg.app-resValues-1 /data/data/com.termux/files/home/fixRSG/app/build/generated/res/resValues/debug
+com.fixrsg.app-packageDebugResources-2 /data/data/com.termux/files/home/fixRSG/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.fixrsg.app-packageDebugResources-3 /data/data/com.termux/files/home/fixRSG/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.fixrsg.app-merged_res-4 /data/data/com.termux/files/home/fixRSG/app/build/intermediates/merged_res/debug
+com.fixrsg.app-debug-5 /data/data/com.termux/files/home/fixRSG/app/src/debug/res
+com.fixrsg.app-main-6 /data/data/com.termux/files/home/fixRSG/app/src/main/res

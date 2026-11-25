@@ -1,0 +1,42 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.fixrsg.app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/data/data/com.termux/files/home/fixRSG/app/src/main/AndroidManifest.xml:2:1-62
+11-->/data/data/com.termux/files/home/fixRSG/app/src/main/AndroidManifest.xml:2:18-60
+12
+13    <application
+13-->/data/data/com.termux/files/home/fixRSG/app/src/main/AndroidManifest.xml:3:1-5:15
+14        android:debuggable="true"
+15        android:extractNativeLibs="true"
+16        android:label="fix RSG"
+16-->/data/data/com.termux/files/home/fixRSG/app/src/main/AndroidManifest.xml:3:14-37
+17        android:usesCleartextTraffic="true" >
+17-->/data/data/com.termux/files/home/fixRSG/app/src/main/AndroidManifest.xml:3:38-73
+18        <activity
+18-->/data/data/com.termux/files/home/fixRSG/app/src/main/AndroidManifest.xml:4:1-216
+19            android:name="com.fixrsg.app.MainActivity"
+19-->/data/data/com.termux/files/home/fixRSG/app/src/main/AndroidManifest.xml:4:11-39
+20            android:exported="true" >
+20-->/data/data/com.termux/files/home/fixRSG/app/src/main/AndroidManifest.xml:4:40-63
+21            <intent-filter>
+21-->/data/data/com.termux/files/home/fixRSG/app/src/main/AndroidManifest.xml:4:64-205
+22                <action android:name="android.intent.action.MAIN" />
+22-->/data/data/com.termux/files/home/fixRSG/app/src/main/AndroidManifest.xml:4:79-130
+22-->/data/data/com.termux/files/home/fixRSG/app/src/main/AndroidManifest.xml:4:87-128
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->/data/data/com.termux/files/home/fixRSG/app/src/main/AndroidManifest.xml:4:130-189
+24-->/data/data/com.termux/files/home/fixRSG/app/src/main/AndroidManifest.xml:4:140-187
+25            </intent-filter>
+26        </activity>
+27    </application>
+28
+29</manifest>
